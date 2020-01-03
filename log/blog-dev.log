@@ -1,0 +1,44 @@
+2019-12-18 21:16:13.594  INFO 12944 --- [main] com.zxw.SnowblogApplicationTests         : Starting SnowblogApplicationTests on 44592YN1811VZ6F with PID 12944 (started by Administrator in F:\idea2019.2\MyPro\snowblog)
+2019-12-18 21:16:13.601 DEBUG 12944 --- [main] com.zxw.SnowblogApplicationTests         : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-18 21:16:13.602  INFO 12944 --- [main] com.zxw.SnowblogApplicationTests         : The following profiles are active: dev
+2019-12-18 21:16:15.846  INFO 12944 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2019-12-18 21:16:15.985  INFO 12944 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 21ms. Found 0 JPA repository interfaces.
+2019-12-18 21:16:17.127  INFO 12944 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-12-18 21:16:18.999  INFO 12944 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-12-18 21:16:19.408  INFO 12944 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-18 21:16:19.810  INFO 12944 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-18 21:16:20.876  INFO 12944 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-12-18 21:16:21.233  INFO 12944 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-12-18 21:16:21.353  INFO 12944 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-12-18 21:16:22.278  INFO 12944 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-18 21:16:22.292  INFO 12944 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-12-18 21:16:24.895  WARN 12944 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-12-18 21:16:27.612  INFO 12944 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-18 21:16:28.487  INFO 12944 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-18 21:16:30.662  INFO 12944 --- [main] com.zxw.SnowblogApplicationTests         : Started SnowblogApplicationTests in 18.955 seconds (JVM running for 23.113)
+2019-12-18 21:16:31.657  INFO 12944 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-18 21:16:31.671  INFO 12944 --- [SpringContextShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-12-18 21:16:31.677  INFO 12944 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-12-18 21:16:31.842  INFO 12944 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-12-18 21:18:31.377  INFO 19316 --- [main] com.zxw.SnowblogApplicationTests         : Starting SnowblogApplicationTests on 44592YN1811VZ6F with PID 19316 (started by Administrator in F:\idea2019.2\MyPro\snowblog)
+2019-12-18 21:18:31.381 DEBUG 19316 --- [main] com.zxw.SnowblogApplicationTests         : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-18 21:18:31.382  INFO 19316 --- [main] com.zxw.SnowblogApplicationTests         : The following profiles are active: dev
+2019-12-18 21:18:34.185  INFO 19316 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2019-12-18 21:18:34.247  INFO 19316 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 39ms. Found 0 JPA repository interfaces.
+2019-12-18 21:18:35.482  INFO 19316 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-12-18 21:18:37.007  INFO 19316 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-12-18 21:18:37.425  INFO 19316 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.9.Final}
+2019-12-18 21:18:37.799  INFO 19316 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-18 21:18:38.940  INFO 19316 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-12-18 21:18:39.841  INFO 19316 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-12-18 21:18:39.891  INFO 19316 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-12-18 21:18:40.554  INFO 19316 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-18 21:18:40.578  INFO 19316 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-12-18 21:18:42.362  WARN 19316 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-12-18 21:18:44.363  INFO 19316 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-18 21:18:45.114  INFO 19316 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-18 21:18:47.095  INFO 19316 --- [main] com.zxw.SnowblogApplicationTests         : Started SnowblogApplicationTests in 17.491 seconds (JVM running for 21.92)
+2019-12-18 21:18:47.900  INFO 19316 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-18 21:18:47.904  INFO 19316 --- [SpringContextShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-12-18 21:18:47.908  INFO 19316 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-12-18 21:18:48.064  INFO 19316 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

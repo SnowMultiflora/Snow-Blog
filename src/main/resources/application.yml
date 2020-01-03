@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: dev
+  mvc:
+    view:
+      suffix: .html
+      prefix: /
+  messages:
+    basename: i18n/messages
+
+comment.avatar: /images/avatar.png
